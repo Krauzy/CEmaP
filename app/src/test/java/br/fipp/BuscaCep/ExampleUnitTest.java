@@ -1,4 +1,4 @@
-package br.fipp.cemap;
+package br.fipp.BuscaCep;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package br.fipp.cemap;
+package br.fipp.BuscaCep;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("br.fipp.cemap", appContext.getPackageName());
+        assertEquals("br.fipp.BuscaCep", appContext.getPackageName());
     }
 }
